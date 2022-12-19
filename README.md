@@ -1,7 +1,7 @@
-### Olá seja bem vindo(a) ao meu perfil, eu sou Marco Leone Merini!
+### Hi there! Welcome to my profile, I´m Marco Leone Merini!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👨‍💻 I´am currently working in the field of data engineering
+- I´am learning Python, SQL, Airflow, 
 
   ##
 
@@ -12,7 +12,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marco-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
