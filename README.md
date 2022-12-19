@@ -1,7 +1,7 @@
 ### Hi there! Welcome to my profile, I´m Marco Leone Merini!
 
-- 👨‍💻 I´am currently working in the field of data engineering
-- I´am learning Python, SQL, Airflow, 
+- 👨‍💻 I´am currently working in the field of data engineering;
+- 💻 I´am learning python, SQL, airflow, data-pipelines, big query e AWS;
 
   ##
 
