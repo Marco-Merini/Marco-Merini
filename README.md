@@ -3,7 +3,7 @@
 - 👨‍💻 I´am currently working in the field of data engineering;
 - 💻 I´am learning python, SQL, airflow, data-pipelines, big query e AWS;
 
-  ##
+  ## Stats
 
 <div align="center">
   <a href="https://github.com/Marco-Merini">
