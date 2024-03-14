@@ -1,6 +1,12 @@
 ### Hi there! I´m Marco!
 
-- 👨‍💻 I´am Data Engineering Learner;
+Engenheiro de dados iniciante com interesse em desenvolvimento de soluções para análise e processamento de dados. Conhecimento em tecnologias como Python, SQL e ferramentas como o Airflow para criar e gerenciar pipelines de dados de forma programática e escalável e também o Jenkins pois posso configurar pipelines para automatizar tarefas repetitivas, garantindo a entrega rápida e confiável de software. Me formando em Engenharia de Software pela Centro Universitário - Católica de Santa Catarina em Joinville. Estou motivado a aprender mais sobre sistemas distribuídos, big data e machine learning para aplicar em projetos futuros.
+
+----
+
+- 🔭 Trabalhando como engenheiro de dados na Conta Azul
+- ☕ Python, SQL, Airflow
+- 💬 Programação, tecnologia, futebol e principalmente meu time do coração Vasco da Gama
 
   ##
 
