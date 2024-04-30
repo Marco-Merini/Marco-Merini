@@ -4,9 +4,9 @@ Engenheiro de dados iniciante com interesse em desenvolvimento de soluções par
 
 ----
 
-- 🔭 Trabalhando como engenheiro de dados na Conta Azul
-- ☕ Python, SQL, Airflow
-- 💬 Programação, tecnologia, futebol e principalmente meu time do coração Vasco da Gama
+- 🔭 Trabalhei como menor aprendiz na área de engenharia de dados na Conta Azul;
+- ☕ Python, SQL, Airflow entre outras;
+- 💬 Programação, tecnologia, futebol e principalmente meu time do coração Vasco da Gama.
 
   ##
 
