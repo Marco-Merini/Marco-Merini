@@ -1,5 +1,3 @@
-### Hi there! I´m Marco!
-
 Sou estudante de Engenharia de Software na Universidade Católica de Santa Catarina, em Joinville, com 2 anos de experiência na área de engenharia de dados.
 
 ----
