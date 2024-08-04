@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Software na Universidade Católica de Santa Catar
 
 # Experiências
 
-### Menor Aprendiz Engenharia de Dados - Conta Azul
+### Aprendiz Engenharia de Dados - Conta Azul
 
 ***Joinville**, Santa Catarina - (Jul 2022 - Mai 2024)*
 
