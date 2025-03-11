@@ -12,7 +12,7 @@ Sou estudante de Engenharia de Software na Universidade Católica de Santa Catar
 - **Ingestão dos dados do CNAE:** Dedicação para compreender os conceitos de negócio, executar as atividades planejadas e comprometer-se com prazo e qualidade. Conclusão bem-sucedida da ingestão de dados dentro do prazo estabelecido, com alta qualidade e sem falhas técnicas.
 - **Ingestão dos dados do CNPJ:** Participação abrangente em diversas áreas da plataforma, utilizando várias tecnologias. Contribuição para a evolução técnica e holística, reduzindo o tempo de integração dos dados da Receita Federal. Esperou-se uma redução nos chamados por empresas não encontradas na base de dados, melhorando a eficiência operacional. Implementação de automação, substituição de fluxos e atualização de bases de dados, demonstrando comprometimento com resultados, responsabilidade e flexibilidade para garantir a eficiência dos projetos.
 
-### Desenvolvedor Trainee - WTTI Sistema
+### Desenvolvedor Trainee - WTTI Sistemas
 
 ***Joinville**, Santa Catarina - (Fev 2025 - Atual)*
 
