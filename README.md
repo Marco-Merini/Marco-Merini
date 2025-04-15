@@ -1,7 +1,3 @@
-Sou estudante de Engenharia de Software na Universidade Católica de Santa Catarina, em Joinville, com 2 anos de experiência na área de engenharia de dados.
-
-----
-
 # Experiências
 
 ### Aprendiz Engenharia de Dados - Conta Azul
